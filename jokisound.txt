@@ -1,0 +1,16 @@
+# JOKISOUNDSYSTEM (Script TELKOMSEL)
+#
+# hostname
+# hostname:80
+# hostname:443
+
+#
+#
+
+#phreakers-madhureh.servecounterstrike.com/cgi-bin/cgiproxy/nph-proxy.pl/0/http/
+#118.97.159.51
+#118.098.095.106
+#telkom.kandanghosting.com
+#
+
+118.97.159.51:443
